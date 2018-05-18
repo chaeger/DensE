@@ -1,2 +1,2 @@
 # DensE
-DensE: A MATLAB toolbox for density evolution
+A MATLAB toolbox for density evolution
