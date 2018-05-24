@@ -2,7 +2,6 @@ clc
 clear 
 
 addpath('../DensE/')
-% rmpath(genpath('/Users/christianhaeger/Dropbox/lib/matlab/DE_class/'))
 
 max_iterations = 1000;
 target_error_rate = 1e-10; % target error rate that counts as "successful decoding"
