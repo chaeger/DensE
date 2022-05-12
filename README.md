@@ -54,7 +54,7 @@ performance of a product code together with the density evolution
 prediction (see `examples/waterfall_pcs.m`):
 
 <p align="center"> 
-<img src="http://chaeger.site44.com/waterfall_pc.jpg">
+<img src="figures/waterfall_pc.jpg">
 </p>
 
 The product code threshold that can be inferred from the above figure
@@ -64,7 +64,7 @@ of 6.79 due to the lower number of iterations.
 Another example for a staircase code is shown below. 
 
 <p align="center"> 
-<img src="http://chaeger.site44.com/waterfall_staircase.jpg">
+<img src="figures/waterfall_staircase.jpg">
 </p>
 
 The simulations assume idealized decoding where no miscorrections
@@ -78,7 +78,7 @@ decoding behavior of a staircase code when decoded with a window
 schedule below the threshold (see `examples/staircase_wave.m`):
 
 <p align="center"> 
-<img src="http://chaeger.site44.com/staircase_wave1.gif">
+<img src="figures/staircase_wave1.gif">
 </p>
 
 When decoding above the threshold, the window moves too fast in
@@ -86,7 +86,7 @@ relation to the speed of the decoding wave and the decoder gets stuck
 eventually: 
 
 <p align="center"> 
-<img src="http://chaeger.site44.com/staircase_wave2.gif">
+<img src="figures/staircase_wave2.gif">
 </p>
 
 ## Additional Information
